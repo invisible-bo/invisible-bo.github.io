@@ -4,6 +4,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <!-- Favicon 설정 -->
+    <link rel="icon" type="image/png" href="{{ '/assets/favicon.png' | relative_url }}">
+
 
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
