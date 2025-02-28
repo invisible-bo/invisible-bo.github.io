@@ -66,4 +66,5 @@ projects:
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
 
+future: true
 timezone: Asia/Seoul
