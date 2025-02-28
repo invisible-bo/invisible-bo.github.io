@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 400 commits achievement
-date: "2025-03-01 02:07:31 +0900"
+date: "2025-03-01 02:16:48 +0900"
 ---
 ![Image](https://github.com/user-attachments/assets/66795184-e84b-4b20-b1e3-d994b27d3163)
 400 commit인줄 알았는데 보니까 399였다 ㅠ
