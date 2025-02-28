@@ -1,6 +1,6 @@
 # Site settings
 title: Bo - Dev & Blogger
-description: "남들이 상상하던 것을, 상상치 못한 방법으로"
+description: "남들이 상상하던 것을, 상상하지 못한 방법으로"
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
 url: "https://invisible-bo.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
@@ -9,7 +9,7 @@ username: Bo
 user_title: Dev & Blogger
 email: qhrms111@gmail.com
 github_username:  invisible-bo
-profile_picture: "/assets/img/bicepcat.jpg"
+profile_picture: "/assets/img/fxxk.jpg"
 
 # Build settings
 markdown: kramdown
@@ -26,15 +26,15 @@ compress_html:
 # Links to include in menu navigation
 links:
   section_1:
-    - title: home
+    - title: Home
       url: /
       key_trigger: 1
 
-    - title: my posts
+    - title: Posts
       url: /posts
       key_trigger: 2
       
-    - title: about me
+    - title: About me
       url: /about
       key_trigger: 3
 
@@ -47,7 +47,7 @@ links:
     # key_trigger: 
 
   section_2:
-    - title: search
+    - title: Search
       url: ""
       key_trigger: s #WARNING: search only works with "s"
 
