@@ -9,3 +9,5 @@ categories:
 - "2025"
 ---
 
+
+bundle exec jekyll post "Post Title"
