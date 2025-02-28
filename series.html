@@ -7,6 +7,7 @@ description: "Take a look at my series..."
 ---
 
 <h2>Series</h2>
+<body style="background-color: #2f2f33; color: #ffffff;">
 {% for tag in site.categories %}
   <span class="tag-title" id="{{ tag[0] | slugify }}">{{ tag[0] | capitalize }}</span>
   <ul class="post-list">

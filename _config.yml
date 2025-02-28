@@ -34,11 +34,11 @@ links:
       url: /posts
       key_trigger: 2
 
-    - title: series
+    - title: Series
       url: /series
       key_trigger: 3
 
-    - title: tags
+    - title: Tags
       url: /tags
       key_trigger: 4  
 
@@ -57,6 +57,11 @@ links:
 projects:
   - name: bookgroo
     url: https://github.com/invisible-bo/bookgroo
+
+
+
+
+
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
