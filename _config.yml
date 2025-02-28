@@ -2,14 +2,14 @@
 title: Bo - Dev & Blogger
 description: "남들이 상상하던 것을, 상상치 못한 방법으로"
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
-url: "http://invisible-bo/invisible-bo.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "https://invisible-bo.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: Bo
 user_title: Dev & Blogger
 email: qhrms111@gmail.com
 github_username:  invisible-bo
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+profile_picture: "/assets/img/bicepcat.jpg"
 
 # Build settings
 markdown: kramdown
@@ -29,35 +29,32 @@ links:
     - title: home
       url: /
       key_trigger: 1
+
     - title: my posts
       url: /posts
       key_trigger: 2
-    - title: series
-      url: /series
-      key_trigger: 3
-    - title: tags
-      url: /tags
-      key_trigger: 4
+      
     - title: about me
       url: /about
-      key_trigger: 5
+      key_trigger: 3
+
+    #- title: 
+    #  url: 
+    #  key_trigger: 
+
+    #- title: 
+    #  url: 
+    # key_trigger: 
+
   section_2:
-    - title: github
-      url: https://github.com/invisible-bo
-      new_tab: true
-      key_trigger: g
     - title: search
       url: ""
       key_trigger: s #WARNING: search only works with "s"
 
 # projects in header index
 projects:
-  - name: fluany
-    url: https://github.com/fluany/fluany
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+  - name: bookgroo
+    url: https://github.com/invisible-bo/bookgroo
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']

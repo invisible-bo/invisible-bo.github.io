@@ -1,4 +1,16 @@
-_site
-.sass-cache
 node_modules
 _drafts
+
+# Jekyll 관련
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Gem 관련
+.bundle/
+Gemfile.lock
+vendor/
+
+# 기타 불필요한 파일
+.DS_Store
