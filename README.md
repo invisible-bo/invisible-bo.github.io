@@ -11,3 +11,5 @@ categories:
 
 
 bundle exec jekyll post "Post Title"
+
+jekyll serve

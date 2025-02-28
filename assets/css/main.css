@@ -22,13 +22,13 @@ aside.slide{bottom:0}a.slideButton.slide{pointer-events:none}.overlay{position:f
 footer {
     background: #5d4d7a;
     padding: 1.563rem 0;
-    margin-top: 100px;
     clear: both;
-    position: fixed;  /* 푸터를 화면 하단에 고정 */
-    bottom: 0;        /* 화면 하단에 붙이기 */
-    left: 0;          /* 화면 왼쪽에 맞추기 */
-    width: 100%;      /* 푸터가 화면 전체 너비에 맞게 설정 */
-    z-index: 1000;    /* 다른 콘텐츠 위에 표시되도록 설정 */
+    position: absolute; /* 푸터를 절대 위치로 설정 */
+    bottom: 0; /* 푸터를 화면 하단에 고정 */
+    left: 0;   /* 왼쪽 정렬 */
+    width: 100%;  /* 화면 전체 너비로 확장 */
+    z-index: 1000; /* 푸터가 페이지 내용 위에 표시되도록 */
+    text-align: center; /* 푸터 텍스트 가운데 정렬 */
 }
 
 
