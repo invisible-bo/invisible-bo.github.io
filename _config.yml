@@ -38,13 +38,15 @@ links:
       url: /series
       key_trigger: 3
 
-    - title: About me
-      url: /about
-      key_trigger: 4
-
     - title: tags
       url: /tags
+      key_trigger: 4  
+
+    - title: About me
+      url: /about
       key_trigger: 5
+
+
 
   section_2:
     - title: Search
