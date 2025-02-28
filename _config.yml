@@ -33,18 +33,18 @@ links:
     - title: Posts
       url: /posts
       key_trigger: 2
-      
-    - title: About me
-      url: /about
+
+    - title: series
+      url: /series
       key_trigger: 3
 
-    #- title: 
-    #  url: 
-    #  key_trigger: 
+    - title: About me
+      url: /about
+      key_trigger: 4
 
-    #- title: 
-    #  url: 
-    # key_trigger: 
+    - title: tags
+      url: /tags
+      key_trigger: 5
 
   section_2:
     - title: Search
