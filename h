@@ -1,0 +1,549 @@
+[33mcommit 0144871fee4b9fd67553a22de3e146823178deea[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Sat Mar 1 01:36:29 2025 +0900
+
+    post
+
+[33mcommit 5db87d70a76dd99413e029d30d378321e8c70053[m
+Merge: cceca27 fed3b26
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Sat Mar 1 01:31:22 2025 +0900
+
+    date
+
+[33mcommit cceca273eb17589530e7b0832dd223db233fb9a1[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Sat Mar 1 01:29:33 2025 +0900
+
+    Trigger GitHub Pages deployment
+
+[33mcommit fed3b269477ec7c81eebf0bce755b5836cc8d1f5[m
+Author: GitHub Actions <actions@github.com>
+Date:   Sat Mar 1 01:20:05 2025 +0900
+
+    Auto-update post date to latest commit time
+
+[33mcommit 542223fe36d7e6ac289519f39a580be2988fcc92[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Sat Mar 1 01:19:50 2025 +0900
+
+    test post
+
+[33mcommit 6550a2024988f2f151f6af73aefe77ee2dd37f99[m
+Author: GitHub Actions <actions@github.com>
+Date:   Sat Mar 1 01:15:07 2025 +0900
+
+    Auto-update post date to latest commit time
+
+[33mcommit 8cdb7d91f4869ee7de4901717aebce651c18d466[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Sat Mar 1 01:13:32 2025 +0900
+
+    Trigger Jekyll rebuild
+
+[33mcommit 0c2d271405a9806157794c759dbf4fe59af157eb[m
+Author: GitHub Actions <actions@github.com>
+Date:   Sat Mar 1 00:56:15 2025 +0900
+
+    Auto-update post date to latest commit time
+
+[33mcommit 9eb96b9f266989da772ac9355b81587d0e0a924f[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Sat Mar 1 00:56:00 2025 +0900
+
+    test
+
+[33mcommit 87c3257726124d205b98add941b5fab7282c5107[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Sat Mar 1 00:12:32 2025 +0900
+
+    0301
+
+[33mcommit 37fb0a153974a3694982f0387158077037f65d68[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Fri Feb 28 21:02:17 2025 +0900
+
+    ⚡️ Add comments section
+
+[33mcommit 8227d3d5a0b2dccdc829dd378e05aa2fa2cde79e[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Fri Feb 28 20:23:47 2025 +0900
+
+    add comments
+
+[33mcommit 63228f84dab1e613fcf01fff5a169a6a219aa2c2[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Fri Feb 28 19:14:42 2025 +0900
+
+    today's job done
+
+[33mcommit c02d15f49eb7ae93bc6c2df7e3e82384c99aa434[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Fri Feb 28 18:41:00 2025 +0900
+
+    ⚡️ Test
+
+[33mcommit 30a35dbe15f64e7d2d95f03e1b3786fb008b42fe[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Fri Feb 28 18:34:27 2025 +0900
+
+    ⚡️ Favicon & bg colors
+
+[33mcommit 1c626678e8cea322b7d1a8c76332b5805c3011e3[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Fri Feb 28 18:10:08 2025 +0900
+
+    ⚡️ 0228
+
+[33mcommit d1aeea614a15fdc8712cfd65715582f15fa9df60[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Fri Feb 28 17:13:57 2025 +0900
+
+    0228
+
+[33mcommit 97b574eade06ffc13b3e78f83463e9c0a24b31ad[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Fri Feb 28 17:04:30 2025 +0900
+
+    🎨 Add menus
+
+[33mcommit 15bac5fa3cfd09efbf2a0fd0bc23d5c5946725ce[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Fri Feb 28 16:09:55 2025 +0900
+
+    🎉 Start blog
+
+[33mcommit 7f3c4ea7506fb4eb14542c1c7b42c65d8422348f[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Fri Feb 28 13:56:08 2025 +0900
+
+    test
+
+[33mcommit 69172fd7e2f998aa3d5250d3425a9afcca2d8758[m
+Author: Bo <qhrms111@gmail.com>
+Date:   Fri Feb 28 13:49:59 2025 +0900
+
+    Create jekyll.yml
+
+[33mcommit 61889a7bdacabcd3fd9e4f87ed6f2953a6d66403[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Fri Feb 28 13:47:33 2025 +0900
+
+    custom
+
+[33mcommit 765545e45edec60e494f897f59cdf42ed6e60493[m
+Author: invisible-bo <qhrms111@gmail.com>
+Date:   Fri Feb 28 06:02:53 2025 +0900
+
+    start
+
+[33mcommit 52606e9a1093cee1daeb6d3af6edaa6130e4a97b[m
+Merge: cc84219 1c5fcac
+Author: Victor Igor <victor.0w3@gmail.com>
+Date:   Wed Jun 29 15:34:16 2022 -0300
+
+    Merge pull request #43 from matzar/master
+    
+    Replace Google+ with Discord
+
+[33mcommit 1c5fcac8e1e2304f010d73e2456669cb19bb39a2[m
+Author: matzar <matzaremba@icloud.com>
+Date:   Sat Mar 2 00:33:54 2019 +0100
+
+    Replace Google+ with Discord
+
+[33mcommit cc84219f32fefb3e485d0fdfb9178fc10e8350f8[m
+Merge: ef98b35 403b940
+Author: Victor Igor <victor.0w3@gmail.com>
+Date:   Thu Feb 14 10:12:46 2019 -0200
+
+    Merge pull request #42 from anildemir/master
+    
+    Fix typo
+
+[33mcommit 403b9401ec71d657a9e0b7900e4d535f00f0767b[m
+Author: Anıl Demir <anildemir@riseup.net>
+Date:   Wed Feb 13 22:53:59 2019 +0300
+
+    Fix typo
+
+[33mcommit ef98b357369b1551803db5704fd242c7574bc909[m
+Merge: 8e76fc8 441b32f
+Author: Victor Igor <victor.0w3@gmail.com>
+Date:   Tue Oct 30 12:49:02 2018 -0300
+
+    Merge pull request #37 from thenickfish/LigatureFix
+    
+    Correct ligature spacing in site title. Fixes #36
+
+[33mcommit 441b32fedf0a7550cd520657e290f2465c6f4b51[m
+Author: Nick Fish <thenickfish@gmail.com>
+Date:   Sun Sep 23 13:43:19 2018 -0600
+
+    Correct ligature spacing in site title. Fixes #36
+
+[33mcommit 8e76fc8a172a474b87d08b7c6714be92dce63dd1[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sat Dec 30 17:25:16 2017 -0200
+
+    Update README.md
+
+[33mcommit 80fd1b84c624ddcf7537b677a663e909ffa05d50[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sat Dec 30 17:23:09 2017 -0200
+
+    menu demo image added
+
+[33mcommit ca19949404817c4a13ecc5a8f2ac2e1a79286693[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sat Dec 30 17:07:57 2017 -0200
+
+    Update README.md
+
+[33mcommit b5de2f64c6887c0461301431fa002e5398072c4f[m
+Merge: dd4a0b3 c6b4cf8
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sat Dec 30 17:00:52 2017 -0200
+
+    Merge pull request #29 from victorvoid/flexibility_menu_links
+    
+    creating a sections field to insert new links on menu navigation
+
+[33mcommit c6b4cf87babd09fd869baf62981a1e7a2129c2a6[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sat Dec 30 16:49:06 2017 -0200
+
+    creating a sections field to put links on menu
+
+[33mcommit dd4a0b33b86ad003716cfef77736561c42078ad5[m
+Merge: 6ad9379 c403d13
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Wed Nov 29 11:10:59 2017 -0200
+
+    Merge pull request #27 from henriquenj/to-upstream-github-typo
+    
+    Fix github button typo
+
+[33mcommit 6ad93790428a1c8c776d43bce63140e9310cd999[m
+Merge: 982cb2c 46f45ee
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Wed Nov 29 11:01:22 2017 -0200
+
+    Merge pull request #26 from henriquenj/to-upstream-linkedin-icon
+    
+    Fix linkedin icon size on Firefox
+
+[33mcommit c403d1301b5474ed08b1448fce6b363cc4cc09ca[m
+Author: Henrique Jung <henriquenj@gmail.com>
+Date:   Wed Nov 29 02:16:16 2017 -0200
+
+    Fix github button typo
+
+[33mcommit 46f45ee2d5f0be6e13b3b358f589f7242a14e641[m
+Author: Henrique Jung <henriquenj@gmail.com>
+Date:   Tue Nov 28 18:28:04 2017 -0200
+
+    Fix linkedin icon size on Firefox
+    
+    Linkedin icon on Firefox is much smaller than the other icon, and does
+    not fit its enclosing circle. The likely reason for this is that Firefox
+    is respecting the "width" and "height" properties on the symbol element.
+    
+    This commit removes them so the symbol takes the whole circle, as the
+    other icons.
+
+[33mcommit 982cb2c252eadd9c819ac4c07ecff0419afe2d16[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sat Oct 28 12:41:20 2017 -0200
+
+    Update README.md
+
+[33mcommit 24cbca082a27cff59f051208e372ee12927a057f[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sat Oct 28 12:34:55 2017 -0200
+
+    Update README.md
+
+[33mcommit 414869073ce1b8b5a4acfffe38498b353fba719c[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sat Oct 28 12:30:04 2017 -0200
+
+    Update README.md
+
+[33mcommit 2820115dd1e64c32f3dfa230d5886f963ae2b35a[m
+Author: Victor Igor <victor.0w3@gmail.com>
+Date:   Mon Oct 9 09:03:05 2017 -0300
+
+    :bug: add base url to get assets in /space-jekyll-template
+
+[33mcommit 9631b7ac7317492cec66453f7b42218662e46dd0[m
+Merge: c5bb386 f9f91a5
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Mon Oct 9 08:38:08 2017 -0300
+
+    Merge pull request #22 from victorvoid/master
+    
+    Rebase the branch used by GitHub Pages
+
+[33mcommit f9f91a5b667f52feea327fa0fc9a1328b7c2c43b[m
+Merge: b08eb61 d68e300
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sun Oct 8 10:52:22 2017 -0300
+
+    Merge pull request #21 from lzhuor/add_linkedin_page_support
+    
+    Added LinkedIn Profile Support
+
+[33mcommit d68e300191222f04b05190e5108a64707aec1591[m
+Author: John <john@stashaway.com>
+Date:   Sun Oct 8 14:40:52 2017 +0800
+
+    Added LinkedIn profile support
+    
+    - Added linkedin public profile url config variable
+    - Updated header template to read linkedin profile config
+    - Added linkedin SVG icon
+
+[33mcommit b08eb61e1ceb070a047a6600aafc3f1616ee1996[m
+Merge: f96de23 8b7428b
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sat Aug 26 12:27:50 2017 -0300
+
+    Merge pull request #20 from VonFry/master
+    
+    fix search.json & add a detail in readme
+
+[33mcommit f96de23723b49d5d285ef0978e5eefc5aa1d8b2d[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sat Aug 26 12:15:55 2017 -0300
+
+    build js :bug: fixed to be updated
+
+[33mcommit 8b7428b1803e29f356c2c3c94b1ab3e26abdcf52[m
+Author: Vonfry <vonfry314@icloud.com>
+Date:   Sat Aug 26 11:32:04 2017 +0800
+
+    docs(readme): add a detail in readme
+
+[33mcommit a906b0d6cb8c7b3aa7c5f2dd18d148535585a2ec[m
+Author: Vonfry <vonfry314@icloud.com>
+Date:   Sat Aug 26 11:28:05 2017 +0800
+
+    fix(search): layout error
+
+[33mcommit b897b1e53543a4d1c2ce1219f598234cdadf9224[m
+Merge: 0a87dd4 f187372
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Wed Aug 2 10:29:15 2017 -0300
+
+    Merge pull request #19 from SatoSawa/search-ux-improve
+    
+    :bug: fixed extra char search input
+
+[33mcommit 0a87dd47f82ceeaef1861ff6fac0dc1668d04882[m
+Merge: 9b5db8a afb2996
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Wed Aug 2 10:20:03 2017 -0300
+
+    Merge pull request #18 from SatoSawa/click-search
+    
+    :bug: fixed search link not clickable
+
+[33mcommit 9b5db8a4b0e8ffdb6651004b296bcefc1859e70b[m
+Merge: c5bb386 66b6176
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Wed Aug 2 10:16:39 2017 -0300
+
+    Merge pull request #17 from SatoSawa/master
+    
+    :bug: fixed Esc to 'Escape' in Event
+
+[33mcommit f187372c4768f1e35cab79aff70e730f25e20184[m
+Author: Sawa <sawayeung@gmail.com>
+Date:   Wed Aug 2 06:43:07 2017 +0800
+
+    fix(/src/js/zmain.js): extra char search input
+    
+    The keydown() event trigger onclick func() + focus(), causing extra character 's'
+    captured to the input field. The focus() event is put into keyup() event.
+
+[33mcommit afb299656c5b42bacb9a57c4cc41b3b809e0df31[m
+Author: Sawa <sawayeung@gmail.com>
+Date:   Wed Aug 2 05:02:19 2017 +0800
+
+    fix(sidebar): search link not clickable
+    
+    A new id is added to the menu-search.html for mouse click event
+
+[33mcommit 66b61769c4671a84e858b8db9b69cf22ac025b03[m
+Author: Sawa <satosawa93@gmail.com>
+Date:   Wed Aug 2 04:33:46 2017 +0800
+
+    fix(/src/js/zmain.js): Typo
+    
+    'Escape' key should be used to close search panel, 'Esc' doesn't work. Minus mistake.
+
+[33mcommit c5bb386cd66b145a7d2f4e78fdc5af28bfddad31[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Mon May 15 11:02:30 2017 -0300
+
+    configure profile picture on _config
+
+[33mcommit 84981bcb06b97786ab8424bf3ca27c6184b69140[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Fri Feb 24 10:15:04 2017 -0300
+
+    fixed bug in base_url, and change baseurl to space-jekyll-template
+
+[33mcommit 9d998f794ef19ea1a38d2bda3d664db292e3c161[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Fri Feb 24 10:02:03 2017 -0300
+
+    remove assets inutilization and update <about> <home image>
+
+[33mcommit 62b28c0534d5752552def8663517260716c8b28d[m
+Merge: b71cd12 0601abf
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Thu Feb 23 09:39:00 2017 -0300
+
+    Merge pull request #12 from VishalMewada/master
+    
+    Delete CNAME
+
+[33mcommit 0601abf182fd58115af5b951578a4a0fd8c05698[m
+Author: Vishal Mewada <mewaravishal@gmail.com>
+Date:   Thu Feb 23 13:18:29 2017 +0530
+
+    Delete CNAME
+
+[33mcommit b71cd12889bb770ead1052fa1f4da9a2deca626e[m
+Merge: a2f3081 a7b431b
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sat Jan 14 08:50:15 2017 -0400
+
+    Merge pull request #10 from maxtortime/patch-1
+    
+    double slash of URL.
+
+[33mcommit a7b431b5452cbcbe3d29f7467cf3a5fb5b7d7a62[m
+Author: Taehwan Kim <maxtortime@users.noreply.github.com>
+Date:   Sat Jan 14 20:06:48 2017 +0900
+
+    Update _config.yml
+
+[33mcommit a2f30816571b97ccb532f235076b84184835ccd3[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Wed Jan 4 09:41:49 2017 -0200
+
+    config
+
+[33mcommit bd9e46edba3935227dd4933c74eb5f3e6e867dcf[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Wed Jan 4 09:39:29 2017 -0200
+
+    :bug: ajusting accessibility
+
+[33mcommit cce606227e27162f90605f44bc84dfbe7af003d7[m
+Author: Victor Martins <victormartins@localhost.localdomain>
+Date:   Mon Dec 26 10:36:25 2016 -0200
+
+    changed link gplus
+
+[33mcommit e18e59603a050b1bcadf5993dae3baf2ae7677c2[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sat Dec 17 10:02:13 2016 -0400
+
+    selected background tree item
+
+[33mcommit 82011a3f6f47e2e513cfc23e0f88ce35210e2e8d[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sat Dec 17 09:51:12 2016 -0400
+
+    inserting - in name post
+
+[33mcommit b557790527135d453c62a2f20b8c87a5ea8bd1c9[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Fri Dec 2 16:52:12 2016 -0400
+
+    restruturing space
+
+[33mcommit 7ccd606c0f744855e061270a3964d396df2b0dc5[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Mon Nov 7 17:24:35 2016 -0400
+
+    Update _config.yml
+
+[33mcommit b8d08bacfa9552ea1529bda92121f2eb2cd57122[m
+Merge: 9b87867 ab85ebc
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Sun Nov 6 12:58:42 2016 -0400
+
+    Merge pull request #4 from xuhongxu96/pure
+    
+    Improved KeyboardEvent Compability and Fixed a Selector Mistake
+
+[33mcommit ab85ebc90871084dc5d706b56663d031f0f24ad6[m
+Author: Hongxu Xu <xuhongxu96@gmail.com>
+Date:   Mon Nov 7 00:42:06 2016 +0800
+
+    Improved KeyboardEvent Compability and Fixed a Selector Mistake
+
+[33mcommit 41a54c92ed0f9669eed7ec080a523476debc6b75[m
+Author: Hongxu Xu <xuhongxu96@gmail.com>
+Date:   Sun Nov 6 20:30:29 2016 +0800
+
+    Improved KeyboardEvent Compability and fixed an selector mistake
+
+[33mcommit 9b87867ff5465e0c37dab547cb467d398f3d5198[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Tue Sep 27 15:40:55 2016 -0400
+
+    config base url
+
+[33mcommit 88244b71a69c099b6aa2b3180fa0fb5b59b0fc7c[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Tue Sep 27 15:35:23 2016 -0400
+
+    implemented neotree
+
+[33mcommit aeed0cc31835515b4d71913862b686b622905e98[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Tue Sep 20 16:56:03 2016 -0400
+
+    Update README.md
+
+[33mcommit df350a49e6812a74c9f69030b256acc5eac083df[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Mon Sep 19 17:46:16 2016 -0400
+
+    implemented aboutme
+
+[33mcommit 5c33c7638d09e73b2854e7610e3995d5834677cb[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Tue Sep 13 17:21:05 2016 -0400
+
+    change wallp and text home
+
+[33mcommit a4ac0d1428bcc4d1c1ad7c3c81fe698eaddfcb44[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Tue Sep 13 14:05:13 2016 -0400
+
+    Update and rename Readme.md to README.md
+
+[33mcommit 9625667b060dcbfa6e8ed3a4e90cf9f37fc12621[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Tue Sep 13 13:43:54 2016 -0400
+
+    screenshot add
+
+[33mcommit b01eb3371a1d5af704ebeca3058c55a289d2b5e1[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Mon Sep 12 15:20:41 2016 -0400
+
+    Update _config.yml
+
+[33mcommit 3feb8edf1e05e1e5107a05ae7784ef8fa9236ecd[m
+Author: Victor Igor <victor.0w3@hotmail.com>
+Date:   Mon Sep 12 15:18:37 2016 -0400
+
+    space init
