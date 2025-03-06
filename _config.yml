@@ -34,17 +34,19 @@ links:
       url: /posts
       key_trigger: 2
 
+    - title: About me
+      url: /about
+      key_trigger: 3
+
     - title: Series
       url: /series
-      key_trigger: 3
+      key_trigger: 4
 
     - title: Tags
       url: /tags
-      key_trigger: 4  
+      key_trigger: 5 
 
-    - title: About me
-      url: /about
-      key_trigger: 5
+
 
 
 
@@ -58,6 +60,8 @@ projects:
   - name: bookgroo
     url: https://github.com/invisible-bo/bookgroo
 
+  - name: Hello Kitty Player
+    url: https://github.com/invisible-bo/Kitty_player
 
 
 
